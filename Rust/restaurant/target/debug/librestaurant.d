@@ -1,0 +1,1 @@
+/Users/laughing/projects/mygit/Learning/Rust/restaurant/target/debug/librestaurant.rlib: /Users/laughing/projects/mygit/Learning/Rust/restaurant/src/front_of_house.rs /Users/laughing/projects/mygit/Learning/Rust/restaurant/src/lib.rs
